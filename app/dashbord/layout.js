@@ -1,5 +1,5 @@
 import React from 'react'
-import CustomLink from './componants/CustomLink'
+import CustomLink from '../componants/CustomLink'
 
 export default function DashbordLayout({ children }) {
     return (
